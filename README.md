@@ -26,5 +26,5 @@
     - [Video](https://www.youtube.com/watch?v=lsMQRaeKNDk)
 
 ## Sockets
-- Do a python client and server application
+- Do a python client and server application.
 
