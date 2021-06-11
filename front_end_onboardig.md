@@ -10,10 +10,16 @@ Week 1
 4. Start Building Projects
 
 ## Thinks to Learn
-### Contents
+### CSS
 - [ ] Responsive web design principle
 - [ ] css flex box
 - [ ] css grid
+
+### JS
+- [ ] event loop
+- [ ] Async Await fetch
+- [ ] Closures
+- [ ] __this__ in js
 
 ### Free Code Camp
 - [ ]  [React](https://www.freecodecamp.org/learn/front-end-libraries/#react)
