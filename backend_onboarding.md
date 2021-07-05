@@ -5,7 +5,8 @@ Week 1
 selected ones should be checked out well
 
 ## Ideology
-- Create a account in free code camp
+- Create a account in Free code camp
+- Create a account in Hackerrank
 1. Learn Python
 2. Learn about Networks
 3. Learn Flask
@@ -37,6 +38,8 @@ selected ones should be checked out well
 - [x] Context Managers
 [Reference](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 ### Networks
+- OSI Layers
+- IP
 - [ ] TCP vs UDP
 - [ ] REST API
 
