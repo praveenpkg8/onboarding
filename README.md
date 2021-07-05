@@ -1,4 +1,4 @@
-# Welcome to Earney
+# Welcome to Onboarding
 - create account in github
 - Always check for stackoverflow resource
 - learn about git
